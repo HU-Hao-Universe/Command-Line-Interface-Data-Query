@@ -1,0 +1,28 @@
+{
+  "ZEN": [
+{
+  "RMA": 10001,
+  "Serial": "1BBK1234567890",
+  "Drive": "None.",
+  "Assembler": "None.",
+  "OldDiagnosis": "Not Mounting",
+  "NewDiagnosis": "03-27-2018"
+},
+{
+  "RMA": 10000,
+  "Serial": "1BBK0987654321",
+  "Drive": "None.",
+  "Assembler": "None.",
+  "OldDiagnosis": "Purple light",
+  "NewDiagnosis": "None."
+},
+{
+  "RMA": 10003,
+  "Serial": "1BBK1234554321",
+  "Drive": "None.",
+  "Assembler": "None.",
+  "OldDiagnosis": "Running Slow",
+  "NewDiagnosis": "None."
+}
+  ]
+}

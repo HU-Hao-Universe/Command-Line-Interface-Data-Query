@@ -1,0 +1,24 @@
+{"ASM":[
+  {
+    "SerialNumber": "1BBK1234567890",
+    "BuiltDate": 1507248000000,
+    "BuiltBy": "Hao Zhang",
+    "Description": "Atom 2000, Black",
+    "SalesOrder": "123456"
+  },
+  {
+    "SerialNumber": "1BBK0987654321",
+    "BuiltDate": 1478476800000,
+    "BuiltBy": "Hao Hao",
+    "Description": "Atom 500, Black",
+    "SalesOrder": "654321"
+  },
+  {
+    "SerialNumber": "1BBK1234554321",
+    "BuiltDate": 1478476800000,
+    "BuiltBy": "Zhang Zhang",
+    "Description": "Atom 250, Black",
+    "SalesOrder": "123321"
+  }
+]
+}

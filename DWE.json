@@ -1,0 +1,24 @@
+{"DWE":[
+  {
+    "Enclosure SN": "1BBK1234567890",
+    "Drive SN": "abcdefg",
+    "Drive Manufacturer": "Micron",
+    "Model": "",
+    "Part Number": "aabbccddeeffgg"
+  },
+  {
+    "Enclosure SN": "1BBK0987654321",
+    "Drive SN": "gfedcba",
+    "Drive Manufacturer": "Crucial",
+    "Model": "",
+    "Part Number": "ggffeeddccbbaa"
+  },
+  {
+    "Enclosure SN": "1BBK1234554321",
+    "Drive SN": "abcdcba",
+    "Drive Manufacturer": "Crucial",
+    "Model": "",
+    "Part Number": "aabbccccbbaa"
+  }
+]
+}
